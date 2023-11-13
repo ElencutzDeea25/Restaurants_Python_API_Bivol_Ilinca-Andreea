@@ -1,0 +1,50 @@
+{
+    "name": "KFC",
+    "vegan": 0,
+    "child": 0,
+    "seats": 20,
+	"schedule": [
+            {
+                "Mon": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Tue": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Wed": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Thu": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Fri": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Sat": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            },
+            {
+                "Sun": {
+                    "Hstart": "17:30",
+                    "Hstop": "2"
+                }
+            }
+        ]
+}
